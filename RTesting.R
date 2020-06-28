@@ -8,4 +8,5 @@ example<-mpg
 View(example)
 ??DBI
 detach("package:ggplot2", unload = TRUE)
+sessionInfo()
 
